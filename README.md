@@ -1,41 +1,49 @@
-<h1 align="center">Harsha</h1>
+<h1 align="center">HARSHA</h1>
+
 <p align="center">
-  BCA Student • Aspiring Full Stack Developer • AI Explorer
+  Full Stack Developer in Progress
 </p>
 
 ---
 
-### About
-- 🎓 BCA (2023–2026)
-- 💻 Focused on Web Development & AI-based projects  
-- 📈 Learning Digital Marketing  
-- ⚡ Exploring Trading Automation (MT5 – Basic)
+### ABOUT
+
+BCA Student (2023–2026)  
+Focused on Web Development & AI Systems  
+Exploring Automation & Digital Strategy  
 
 ---
 
-### Tech
-**Languages**  
-Java • PHP • HTML • CSS • JavaScript  
+### STACK
 
-**Tools**  
-Git • GitHub • VS Code • MySQL • MT5  
+Java  
+PHP  
+HTML  
+CSS  
+JavaScript  
 
----
-
-### Projects
-- Intelligent Career Guidance System (AI)
-- Picture Art Gallery Webpage
-- Study Planner Generator
+Git  
+MySQL  
+VS Code  
 
 ---
 
-### Stats
+### PROJECTS
+
+Intelligent Career Guidance System  
+Picture Art Gallery Webpage  
+AI Study Planner Generator  
+
+---
+
+### STATS
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=false&hide_border=true&title_color=000000&text_color=000000&bg_color=ffffff" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Building consistency. One commit at a time.</i>
+  <sub>Consistency > Motivation</sub>
 </p>
