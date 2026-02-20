@@ -1,4 +1,4 @@
-# Harxshz<h1 align="center">Harsha</h1>
+<h1 align="center">Harsha</h1>
 <p align="center">
   BCA Student • Aspiring Full Stack Developer • AI Explorer
 </p>
